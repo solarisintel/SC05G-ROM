@@ -1,2 +1,2 @@
 # SC-05G custom ROM
-lineageOS AospExtend etc.  
+lineageOS AospExtended etc.  
