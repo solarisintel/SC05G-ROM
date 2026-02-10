@@ -1,2 +1,2 @@
-# SC-05G custom ROM
+# Docomo Galaxy S6(SC05G flat model) custom ROM archive
 LineageOS AospExtended etc.  
