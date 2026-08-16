@@ -21,7 +21,7 @@ priv-appファイルなどモジュールが動かないようにするため、
 デーモンを動かさないようにするため、init.rcを書き換える
 ```
 kickstart(mdm_helper)を起動させて/dev/ttyUSB1を生成する必要がある
-
+```
 ```
 ## apply.bat
 ```
