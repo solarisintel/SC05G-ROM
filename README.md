@@ -23,7 +23,7 @@ priv-appファイルなどモジュールが動かないようにするため、
 kickstart(mdm_helper)を起動させて/dev/ttyUSB1を生成する必要がある
 ```
 ```
-## apply.bat
+## apply.bat(lineage-18.1)
 ```
 @echo off
 echo "zeroflexx to zerofltedcm(sc05g)"
